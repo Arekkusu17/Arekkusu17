@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alex, I'm 25 years old from Chile. My username is the pronunciation of アレックス which is my name in katakana and the day I was born.
+My name is Alex, I'm 26 years old from Chile. My username is the pronunciation of アレックス which is my name in katakana and the day I was born.
 
 🌱I’m currently learning HTML, CSS and JS. So I will be uploading some projects I have worked on so you can watch my growth.
 
