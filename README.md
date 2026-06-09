@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="300" src="/img/frieren_coding.png" />
+  <p><sub>Frieren once she grew tired of falling for the Mimic...</sub></p>
 </div>
 
 ###
