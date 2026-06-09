@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="300" src="/img/frieren_coding.png" />
-  <p><sub>Frieren once she grew tired of falling for the Mimic...</sub></p>
+  <img height="300" src="./img/frieren_coding.png" alt="Frieren coding" />
+  <p><sub>Frieren after getting tired of falling for Mimics...</sub></p>
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨🏻‍💻  About Me</h3>
 
 ###
 
@@ -38,7 +38,7 @@ Hi, I’m Alex from Chile 🇨🇱<br><br>
 
 ###
 
-<h3 align="left">🛠 Tech Stack</h3>
+<h3 align="left">🛠  Tech Stack</h3>
 
 ###
 
@@ -68,7 +68,7 @@ Hi, I’m Alex from Chile 🇨🇱<br><br>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  My Stats</h3>
 
 ###
 
